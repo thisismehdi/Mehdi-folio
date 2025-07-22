@@ -226,6 +226,7 @@ params:
           enable: false
         featuredLink:
           enable: true
+          name : "CoExam"
           url: "https://github.com/thisismehdi/CoExam"
         content: |
           I contributed to the development of a secure online examination platform using Django and Face-api.js, 
