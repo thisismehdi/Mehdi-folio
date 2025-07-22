@@ -383,14 +383,6 @@ params:
     #   messageCaption: "Enter your message here"
     #   messageRows: 5
 
-  footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
-
   # List pages like blogs and posts
   listPages:
     disableFeaturedImage: false
@@ -413,7 +405,7 @@ params:
     copyright: "Discover 🌎, Code 👨‍💻, Achieve 💻"
     pageNotFound: "Page not found"
     emailText: "Check out this site"
-    
+
   datesFormat:
     article: "Jan 2, 2006"
     articleList: "Jan 2, 2006"
