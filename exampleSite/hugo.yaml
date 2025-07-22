@@ -131,31 +131,29 @@ params:
       disableContact: false
 
   # Hero
+  # Hero
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "test."
-    subtitle: "I build things for the web"
+    title: "Mehdi FILALI."
+    subtitle: "Fullstack Developer"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    image: /images/mehdiF.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "MehdiResume.pdf"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/thisismehdi
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/filali-mehdi
 
   # About
   about:
