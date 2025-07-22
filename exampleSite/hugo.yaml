@@ -231,30 +231,6 @@ params:
           incorporating facial recognition technology. I implemented backend logic for user authentication and exam session management. 
           Additionally, I integrated a facial recognition API to ensure the identity verification of exam takers. To enhance security, I developed features for real-time monitoring of exam sessions and automatic flagging of suspicious activities.
 
-
-# Education
-  education:
-    enable: true
-    # title: "Custom Name"
-    index: false
-    items:
-      - title: "Engineering Degree in Computer Science and Networks"
-        school:
-          name: "Ecole Marocaine des Sciences de l'Ingenieur"
-          url: "https://emsi.ma/"
-        date: "Oct 2022 to Jul 2024"
-        content: |-
-          I earned an Engineering Degree in Computer Science from Ecole Marocaine des Sciences de l'Ingénieur (EMSI), 
-          where I developed strong skills in software development, database management, cybersecurity, and cloud computing.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Cadi Ayyad"
-          url: "https://fps.uca.ma/"
-        date: "Oct 2018 to Jul 2021"
-        content: |-
-          I earned a Bachelor of Science in Computer Science from Cadi Ayyad University, 
-          where I built a strong foundation in programming, algorithms, operating systems, databases, and software development.
-
   # Education
   education:
     enable: true
