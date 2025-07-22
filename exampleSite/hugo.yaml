@@ -203,17 +203,17 @@ params:
 
 
      - job: "Fullstack Developer Intern"
-        company: "6solutions"
-        companyUrl: "https://6solutions.com/"
-        date: "Jun 2023 to Oct 2023"
-        featuredLink:
+       company: "6solutions"
+       companyUrl: "https://6solutions.com/"
+       date: "Jun 2023 to Oct 2023"
+       featuredLink:
           enable: true
           name : "BonPlans"
           url: "https://github.com/thisismehdi/BonPlan"
-        info:
+       info:
           enable: true
           content: "Fullstack Developer"
-        content: |
+       content: |
           I developed a responsive web application using Java and Angular to compare product prices across various online retailers. 
           I implemented web scraping algorithms to gather real-time pricing data from multiple e-commerce platforms. Additionally, 
           I created a user-friendly interface that allows easy product search and comparison. To enhance user experience, I integrated data analysis tools to provide insights on price trends and best deal recommendations.
