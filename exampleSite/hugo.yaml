@@ -191,21 +191,16 @@ params:
           url: "https://github.com/thisismehdi/"
         content: "At Aircharter, I worked as a fullstack developer on a private jet booking platform. I contributed to improving the existing codebase by adding new features, optimizing performance, and ensuring a smooth user experience as well as effective communication between different layers of the application."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Fullstack Developer Intern"
+        company: "Ilem group"
+        companyUrl: "https://new.ilemgroup.com"
+        date: "Mar 2024 to Sep 2024"
         featuredLink:
           enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          name: "Inventaire vCenter Intern"
+          url: "https://github.com/thisismehdi/vCenter-Inventory-Manager"
+        content: "The Inventaire vCenter project was developed during a six-month internship to meet the specific needs of managing VMs and clients. I implemented a RESTful API using Java for seamless integration with VMware vCenter. I developed a secure authentication system with Azure AD and MSAL. Additionally, I built data export functionalities in Angular to generate CSV reports for resource consumption. To ensure efficient project management, I utilized Agile methodologies and JIRA."
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
 
       - job: "Junior Software Developer"
         company: "Apple"
