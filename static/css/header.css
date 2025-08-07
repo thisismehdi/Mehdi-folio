@@ -80,6 +80,7 @@ li > .dropdown-toggle:focus{
     color: var(--text-color);
     border-color: var(--background-color) !important;
     transition: none;
+    display: none !important;
 }
 
 #search:focus {
